@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid orangered;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -203,5 +203,16 @@ a.social:hover {
     margin: 40px auto;
   }
 
+}
+.hobbies {
+
+  margin-left: 500px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
 }
 
