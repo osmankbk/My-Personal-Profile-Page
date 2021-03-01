@@ -98,7 +98,9 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
+.card:hover,
+.hobbies:hover,
+.experience:hover {
   border-color: #ff99ff;
 }
 
