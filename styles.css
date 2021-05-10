@@ -51,9 +51,9 @@ a:hover {
 .nav a {
   transition: all .5s;
 }
-.nav a:hover {
+/* .nav a:hover {
   color: white
-}
+} */
 
 header {
   text-align: center;
